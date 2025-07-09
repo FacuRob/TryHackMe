@@ -15,13 +15,6 @@ Cada carpeta corresponde a una sala de TryHackMe e incluye:
 - Documentar el proceso de aprendizaje.
 - Facilitar la revisión antes de exámenes o entrevistas.
 
-## 🗂️ Índice de salas subidas
-
-- [Blue](./Blue)
-- [Overpass](./Overpass)
-- [RootMe](./RootMe)
-- *(Se irán agregando más salas a medida que avance el entrenamiento)*
-
 ## ⚒️ Tecnologías utilizadas
 
 - 🐧 Kali Linux
